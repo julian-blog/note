@@ -27,7 +27,7 @@
   - search for files
   - execute command
   - more...
-- `ctrl + ` ` - terminal
+- ``ctrl + ` `` - terminal
 - `shift + option + ⬆ / ⬇` - copy current line up / down
 - `⌘ + shift + ctrl + arrow left / right` - shrink / expand selection
 - `⌘ + shift + F` - find text in all files, same as intellij
