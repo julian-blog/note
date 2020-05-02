@@ -63,6 +63,12 @@ I feel more like how we deal with struggle and the low times that defines us. Yo
 
 # Idea & problems
 
+## How to convert this writing system to creating software?
+I found this [Medium Post](https://medium.com/better-marketing/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461) quite inspiring. This got me into thinking how to convert this system into creating software. Always wanted to learn new things and work on side projects. But never really able to produce anything. And I really agree with this quote `The best practice is the kind done in public, and the best writing is the stuff you intend to publish.` The problem of creating software is it takes longer. Being able to iterate on the 3 step system in a few days and have a finished piece of writing must be satisfying. The long drag of learning something new and creating working software always kills the motivation for me. What to do?
+1. Collect Ideas
+2. Write and Save
+3. Edit and Publish
+
 ## Feedback analysis
 ### What it does?
 - Overall sentiment
@@ -114,11 +120,20 @@ I feel more like how we deal with struggle and the low times that defines us. Yo
 * [ ] Transmit shop
 
 ## Hell Raid
+### Map
+![map](./e7_hr_map.png =500x)
+
 ### Queen
 - Need buff strip
 - AOE
 - 3 debuf got cleansed
-#### Teams
+
+Good units:
+- Iseria - strip, pair well with Tamarinne
+- Charles - S2 can strip buff, aoe, attack buff
+- Tamarinne - cleanse, strip, heal, attack buff
+
+Team:
 |1|2|3|4|Camp| Morale|
 |-|-|-|-|-|-|
 |Iseria|Tamarinne|Charles|SSB|(3) Joyful Memories, (3) Dream| 27|
@@ -130,10 +145,41 @@ I feel more like how we deal with struggle and the low times that defines us. Yo
 |A. Ravi|Vivian|Tamarinne|C. Zerato|(1) Myth, (2) Ctiticsim| 37 |
 
 ### Karkanis
+- Strong DPS
+- No earth unit
+
+Team:
+|1|2|3|4|Camp| Morale|
+|-|-|-|-|-|-|
+|A. Ravi|A. Montmo|Luna|C. Zerato|(1) Myth, (3) Ctiticsim| 24 |
+
 
 ### Vera
+- Need AOE, cleanse.  
+- First phrase need to clear all egg / spider. 
+- Single target attack Vera without clearing minion trigger AOE counter attack that stuns.
 
-### Juleeve
+Good units:
+- C. Zerato - return debuff, immune stun
+- Vivian - short cooldown AOE
+- Tamarinne - cleanse and heal. element adv.
+
+|1|2|3|4|Camp| Morale|
+|-|-|-|-|-|-|
+|Melissa|Vivian|Tamarinne|C. Zerato|(2) Myth, (3) Cute Cheer| 36 |
+
+### Juleeve (Green)
+- Need S1 without debuff
+- Need cleanse
+
+|1|2|3|4|Camp| Morale|
+|-|-|-|-|-|-|
+|A.Ravi|Luna|A. Montmo|Lilias|(1) Myth, (2) Sad memory| 16 |
+
+
+
+
+
 
 ## Counters
 ### Counter Attacker
