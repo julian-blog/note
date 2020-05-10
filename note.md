@@ -43,7 +43,18 @@
 - `ctrl + - / _` - (go back / go forward) changed to match intellij `⌘ + [ / ]`
 - `⌘ + shift + \` - jump to matching bracket
 
+# System Design
+https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design
+
+# Algorithm
+
+# Fastai
+
 # Machine Learning
+
+## Weather forecast with ai?
+- use satellite image?
+
 ## NLP
 ### State of the art
 - from [Analytic Vidhya 2019-Mar](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/):  
@@ -119,6 +130,13 @@ I found this [Medium Post](https://medium.com/better-marketing/the-system-i-used
 * [ ] Pet shop
 * [ ] Transmit shop
 
+## Flat vs percentage state
+|Type|Flat|Percentage|Threshold|
+|-|-|-|-|
+|Attack|100|12%|833.3|
+|Defence|60|12%|500|
+|Health|540|12%|4500|
+
 ## Hell Raid
 ### Map
 ![map](./e7_hr_map.png =500x)
@@ -175,11 +193,6 @@ Good units:
 |1|2|3|4|Camp| Morale|
 |-|-|-|-|-|-|
 |A.Ravi|Luna|A. Montmo|Lilias|(1) Myth, (2) Sad memory| 16 |
-
-
-
-
-
 
 ## Counters
 ### Counter Attacker
